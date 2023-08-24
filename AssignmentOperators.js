@@ -1,0 +1,17 @@
+  var a = 5;
+        var b = 3;
+        a += b;
+        document.write("The sum of a and b is: ",a,"<br>");
+        document.write("The value of a is: ",a,"<br>");
+        a -= b;
+        document.write("The subtraction value of a & b is: ",a,"<br>");
+        document.write("The value of a is: ",a,"<br>");
+        a *= b;
+        document.write("The multiplication value of a & b is: ",a,"<br>");
+        document.write("The value of a is: ",a,"<br>");
+        a /= b;
+        document.write("The  division value of a & b is: ",a,"<br>");
+        document.write("The value of a is: ",a,"<br>");
+        a **= b;
+        document.write("The  exponent value of a^b is: ",a,"<br>");
+        document.write("The value of a is: ",a,"<br>");
